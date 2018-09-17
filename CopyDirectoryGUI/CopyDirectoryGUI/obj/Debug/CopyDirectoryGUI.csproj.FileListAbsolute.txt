@@ -1,0 +1,15 @@
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectoryGUI.exe.config
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectoryGUI.exe
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectoryGUI.pdb
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.Form1.resources
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.Properties.Resources.resources
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.exe
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.pdb
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectory.exe
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectory.pdb
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\bin\Debug\CopyDirectory.exe.config
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.Form2.resources
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectoryGUI\CopyDirectoryGUI\obj\Debug\CopyDirectoryGUI.Form3.resources

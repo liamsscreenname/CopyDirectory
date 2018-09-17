@@ -1,0 +1,6 @@
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.exe.config
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.exe
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\bin\Release\CopyDirectory.pdb
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.exe
+C:\Users\owner\Documents\C#\CopyDirectory\CopyDirectory\CopyDirectory\obj\Release\CopyDirectory.pdb
